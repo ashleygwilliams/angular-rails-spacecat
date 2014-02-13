@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  string: MyString
+  bio: MyString
+  text: MyString
+  color: MyString
+  string: MyString
+  personality: MyString
+  string: MyString
+  planets: MyString
+  integer: MyString
+
+two:
+  name: MyString
+  string: MyString
+  bio: MyString
+  text: MyString
+  color: MyString
+  string: MyString
+  personality: MyString
+  string: MyString
+  planets: MyString
+  integer: MyString
